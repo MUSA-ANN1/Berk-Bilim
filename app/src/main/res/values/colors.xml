@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back">#495DCF</color>
+    <color name="textColor">#9FA8DA</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#7F7F7F</color>
+    <color name="time">#FF2020</color>
+    <color name="over">#FF7474</color>
+</resources>

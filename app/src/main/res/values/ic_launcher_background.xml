@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#D4E4CC</color>
+
+
+
+    <style name="colored_checkBox" parent="Theme.AppCompat.DayNight">
+        <item name="colorAccent">@android:color/holo_red_light</item>
+        <item name="android:textColorSecondary">@android:color/darker_gray</item>
+        <item name="colorButtonNormal">@android:color/darker_gray</item>
+    </style>
+</resources>

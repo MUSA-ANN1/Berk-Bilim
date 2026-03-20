@@ -1,0 +1,430 @@
+<resources>
+    <string name="app_name">Berk Bilim</string>
+
+    <string name="info_s_tm">
+        Uniwersitet synaglaryna taýýarlanýarkaňyz haýsy hünäre ýakynlyk
+        duýýandygyňyzy bilýärmisiňiz? Haýsy hünärde üstünlik gazanarsyňyz? Hünärleri
+        nämä görä saýlamakçy?
+            Bu anketa size hünäri dogry we tutanýerli saýlamaklyga kömek etmek maksady
+        bilen taýýarlandy. Emma bu anketa siziň ähli gyzyklanmalaryňyzy we ukyplaryňyzy
+        doly we takyk ölçeýär diýmeklik dogry däldir. Ýöne siziň özüňizi tanamagyňyza azda
+        kände kömek etjekdir. Şuny-da belläp geçmek peýdalydyr, geçen ýyl gutardyş
+        synplarda ulanylan anketanyň netijesinde anketanyň beren üstünligi %85 dir.
+    </string>
+
+    <string name="info_m_tm">Arifmetika, goşmak, aýyrmak, köpeltmek we bölmek ýaly san amallaryny öwrenýän matematikanyň başlangyç şahasydyr. Has giň manyda eksponentasiýa, kökleri çykarmak we logarifmleri öz içine alýar.
+        Arifmetiki ulgamlary işleýän sanlaryň görnüşine görä tapawutlandyryp bolýar. Bitewi arifmetika položitel we otrisatel bitin sanlar bilen hasaplanýar. Rasional san arifmetikasy bitewi sanlaryň bölekleri boýunça amallary öz içine alýar. Hakyky san arifmetikasy, rasional we manysyz sanlary öz içine alýan hakyky sanlar bilen hasaplamalar hakda.
+        Başga bir tapawut, hasaplamalary ýerine ýetirmek üçin ulanylýan san ulgamyna esaslanýar. Onluk arifmetikasy iň ýygydyr. 0-dan 9-a çenli esasy sanlary we sanlary aňlatmak üçin kombinasiýalaryny ulanýar. Ikilik arifmetika, tersine, kompýuterleriň köpüsi tarapyndan ulanylýar we 0 hem-de 1 esasy sanlaryň kombinasiýasy hökmünde sanlary aňladýar. Kompýuter arifmetikasy kompýuterlerde ikilik arifmetikany durmuşa geçirmegiň aýratynlyklary bilen iş salyşýar. Käbir arifmetiki ulgamlar aralyk arifmetika we matrisa arifmetikasy ýaly sanlardan başga matematiki obýektlerde işleýär.
+        Arifmetiki amallar algebra, hasaplama we statistika ýaly matematikanyň köp şahasynyň esasyny düzýär. Fizika we ykdysadyýet ýaly ylymlarda şuňa meňzeş rol oýnaýarlar. Arifmetika gündelik durmuşyň köp ugurlarynda bar, mysal üçin, söwda wagtynda üýtgemegi hasaplamak ýa-da şahsy maliýe dolandyrmak. Okuwçylaryň duş gelýän matematika biliminiň iň irki görnüşlerinden biridir. Onuň akyl we düşünje esaslary psihologiýa we pelsepe tarapyndan öwrenilýär.
+        Arifmetika tejribesi azyndan müňlerçe we belki on müňlerçe ýyllykdyr. Müsürliler we Sumerler ýaly gadymy siwilizasiýalar takmynan b.e. öňki 3000-nji ýyllarda amaly arifmetiki meseleleri çözmek üçin san ulgamlaryny oýlap tapypdyrlar. Miladydan öňki VII we VI asyrlardan başlap, gadymy grekler sanlary has abstrakt öwrenip başladylar we berk matematiki subutnamalar usulyny girizdiler. Gadymy hindiler nol we onluk ulgamy düşünjesini ösdüripdirler, orta asyrlarda arap matematikleri hasam kämilleşdirip, Günbatar dünýäsine ýaýrapdyrlar. Ilkinji mehaniki hasaplaýjylar XVII asyrda oýlanyp tapyldy. XVIII-XIX asyrlarda häzirki zaman san teoriýasynyň ösüşi we arifmetikanyň aksiomatiki esaslarynyň emele gelmegi bolup geçdi. XX asyrda elektron hasaplaýjylaryň we kompýuterleriň döremegi, arifmetiki hasaplamalaryň ýerine ýetirilip bilinjek takyklygyny we tizligini üýtgedi.
+    </string>
+
+    <string name="Mental_tm">
+        Mental arifmetika
+    </string>
+
+    <string name="basla_tm">
+        Başla
+    </string>
+
+    <string name="Hunar_tm">
+        Hünär anketasy
+    </string>
+
+    <string name="alamatlar_tm">
+        Alamatlar:
+    </string>
+
+    <string name="kyncylyk_tm">
+        Kynçylyklar:
+    </string>
+
+    <string name="ansat_tm">
+        Aňsat
+    </string>
+
+    <string name="orta_tm">
+        Orta
+    </string>
+
+    <string name="kyn_tm">
+        Kyn
+    </string>
+
+    <string name="ozunce_tm">
+        Özüňçe san goýmak
+    </string>
+
+    <string name="tizlik_tm">
+        Tizligi(sekunt):
+    </string>
+
+    <string name="san_cyk_tm">
+        Näçe san çykmaly:
+    </string>
+
+    <string name="san_aralyk_tm">
+        Çykýan sanyň aralygy:
+    </string>
+
+    <string name="hazir_tm">
+        Häzir
+    </string>
+
+    <string name="tayyn_tm">
+        Taýyn bol
+    </string>
+
+    <string name="baslaaa_tm">
+        Başla!!
+    </string>
+
+    <string name="dogry_tm">
+        dogry
+    </string>
+
+    <string name="yalnys_tm">
+        ýalňyş
+    </string>
+
+    <string name="tazedensynans_tm">
+        Täzeden synanyşyň!
+    </string>
+
+    <string name="jogabynyyazyn_tm">
+       Jogabyny yazyn
+    </string>
+
+    <string name="sandoldur_tm">
+       Size hemme sanlary doldurmagyňyzy haýyş etýärin.
+    </string>
+
+    <string name="sanbashy_tm">
+       Sanyň başy bilen soňy deň bolup bilmeýär.
+    </string>
+
+    <string name="cykjaksan_tm">
+       Çykjak sanlar 2-den kiçi bolup bilmeýär.
+    </string>
+
+    <string name="jogap_yazylmandyr_tm">
+       Siz jogabyňyzy ýazmandyrsyňyz.
+    </string>
+
+    <string name="dogry_jogap_tm">
+       Dogry jogap
+    </string>
+
+    <string name="adam_jogap_tm">
+       Siziň jogabyňyz
+    </string>
+
+    <string name="yaz_jogap_tm">
+       Jogabyňy ýazyň
+    </string>
+
+    <string name="HAWA_tm">
+       HAWA
+    </string>
+
+    <string name="YOK_tm">
+       ÝOK
+    </string>
+
+    <string name="tm_tm">
+        Türkmençe
+    </string>
+
+    <string name="en_tm">
+        Iňlisçe
+    </string>
+
+    <string name="ru_tm">
+        Rusça
+    </string>
+
+
+
+    <string name="info_s_en">
+        Are you preparing for university entrance exams? Do you know which profession you feel closer to? In which profession will you achieve success? How should you choose a profession?This questionnaire was prepared with the aim of helping you choose the right and suitable profession. However, it is not accurate to say that this questionnaire fully and precisely measures all your interests and abilities. Nevertheless, it will help you to some extent in understanding yourself. It is also useful to note that the success rate of the questionnaire used in last year\'s graduating classes was 85%.
+    </string>
+
+    <string name="info_m_en">
+        Arithmetic is the foundational branch of mathematics that studies basic number operations such as addition, subtraction, multiplication, and division. In a broader sense, it also includes exponentiation, extracting roots, and logarithms.
+        Arithmetic systems can be distinguished based on the types of numbers they operate on. "Integer arithmetic" deals with positive and negative whole numbers. "Rational number arithmetic" involves operations with fractions of integers. "Real number arithmetic" encompasses calculations with real numbers, including rational and irrational numbers.
+
+        Another distinction lies in the number systems used to perform calculations. "Decimal arithmetic" is the most common, using the base-10 system with digits from 0 to 9 and their combinations to represent numbers. "Binary arithmetic", on the other hand, is widely used in computers and represents numbers as combinations of 0 and 1. "Computer arithmetic" deals with the specifics of implementing binary arithmetic in computers. Some arithmetic systems operate on mathematical objects other than numbers, such as "interval arithmetic" and "matrix arithmetic".
+
+        Arithmetic operations form the basis of many branches of mathematics, including algebra, calculus, and statistics. They also play a similar role in sciences like physics and economics. Arithmetic is present in many aspects of daily life, such as calculating change during transactions or managing personal finances. It is one of the earliest forms of mathematical knowledge encountered by students. Its principles of reasoning and logic are studied in psychology and philosophy.
+
+        The history of arithmetic spans at least thousands, if not tens of thousands, of years. Ancient civilizations like the Egyptians and Sumerians developed number systems around 3000 BCE to solve practical arithmetic problems. Starting in the 7th and 6th centuries BCE, the ancient Greeks began studying numbers more abstractly and introduced rigorous mathematical proofs. Ancient Indians developed the concept of zero and the decimal system, which was further refined by medieval Arab mathematicians and later spread to the Western world. The first mechanical calculators were invented in the 17th century. The 18th and 19th centuries saw the development of modern number theory and the axiomatic foundations of arithmetic. The 20th century brought the advent of electronic calculators and computers, revolutionizing the precision and speed of arithmetic calculations.
+    </string>
+
+    <string name="Mental_en">
+        mental arithmetic
+    </string>
+
+    <string name="basla_en">
+        Start
+    </string>
+
+    <string name="Hunar_en">
+        Career questionnaire
+    </string>
+
+    <string name="alamatlar_en">
+        Symbols:
+    </string>
+
+    <string name="kyncylyk_en">
+        Level:
+    </string>
+
+    <string name="ansat_en">
+        Easy
+    </string>
+
+    <string name="orta_en">
+        Medium
+    </string>
+
+    <string name="kyn_en">
+        Hard
+    </string>
+
+    <string name="ozunce_en">
+        Assigning a number to yourself
+    </string>
+
+    <string name="tizlik_en">
+        Speed(per second):
+    </string>
+
+    <string name="san_cyk_en">
+        How many numbers should come out:
+    </string>
+
+    <string name="san_aralyk_en">
+        The range of the resulting number:
+    </string>
+
+    <string name="hazir_en">
+        Ready
+    </string>
+
+    <string name="tayyn_en">
+        Set
+    </string>
+
+    <string name="baslaaa_en">
+        Go!!
+    </string>
+
+    <string name="dogry_en">
+        Correct
+    </string>
+
+    <string name="yalnys_en">
+        Wrong
+    </string>
+
+    <string name="tazedensynans_en">
+        Try again!
+    </string>
+
+    <string name="jogabynyyazyn_en">
+       Write your answer
+    </string>
+
+    <string name="sandoldur_en">
+       I kindly ask you to fill in all the numbers.
+    </string>
+
+    <string name="sanbashy_en">
+       The beginning and end of the number cannot be the same.
+    </string>
+
+    <string name="cykjaksan_en">
+       The resulting numbers cannot be less than 2.
+    </string>
+
+    <string name="jogap_yazylmandyr_en">
+       You have not written your answer.
+    </string>
+
+    <string name="dogry_jogap_en">
+       Correct answer
+    </string>
+
+    <string name="adam_jogap_en">
+       Your answer is
+    </string>
+
+    <string name="yaz_jogap_en">
+       Write your answer
+    </string>
+
+    <string name="HAWA_en">
+       YES
+    </string>
+
+    <string name="YOK_en">
+       NO
+    </string>
+
+    <string name="tm_en">
+        Turkmen
+    </string>
+
+    <string name="en_en">
+        English
+    </string>
+
+    <string name="ru_en">
+        Russian
+    </string>
+
+
+
+    <string name="info_s_ru">
+        Знаете ли вы, к какой профессии вы чувствуете склонность? В какой профессии вы добьетесь успеха? По каким критериям выбирать профессию?
+        Эта анкета была подготовлена с целью помочь вам выбрать правильную и подходящую профессию. Однако, неверно утверждать, что эта анкета полностью и точно измеряет все ваши интересы и способности. Тем не менее, она может в некоторой степени помочь вам лучше понять себя. Также полезно отметить, что успешность анкеты, использованной в выпускных классах прошлого года, составила 85%.
+    </string>
+
+    <string name="info_m_ru">
+        Арифметика — это начальный раздел математики, изучающий основные операции с числами, такие как сложение, вычитание, умножение и деление. В более широком смысле она также включает возведение в степень, извлечение корней и логарифмы.
+        Арифметические системы можно классифицировать в зависимости от типов чисел, с которыми они работают. Целочисленная арифметика работает с положительными и отрицательными целыми числами. Арифметика рациональных чисел включает операции с дробями. Арифметика действительных чисел охватывает вычисления с действительными числами, включая рациональные и иррациональные числа.
+
+        Другой аспект классификации основан на используемых системах счисления. Десятичная арифметика является наиболее распространённой и использует цифры от 0 до 9 для представления чисел. Двоичная арифметика, напротив, широко применяется в компьютерах и представляет числа в виде комбинаций 0 и 1. Компьютерная арифметика изучает особенности реализации двоичной арифметики в компьютерах. Некоторые арифметические системы работают с математическими объектами, отличными от чисел, например, интервальная арифметика и матричная арифметика.
+
+        Арифметические операции лежат в основе многих разделов математики, таких как алгебра, математический анализ и статистика. Они также играют важную роль в науках, таких как физика и экономика. Арифметика присутствует во многих аспектах повседневной жизни, например, при расчёте сдачи в магазине или управлении личными финансами. Это один из самых ранних видов математических знаний, с которыми сталкиваются ученики. Её принципы логики и мышления изучаются в психологии и философии.
+
+        История арифметики насчитывает тысячи, а возможно, и десятки тысяч лет. Древние цивилизации, такие как египтяне и шумеры, разработали системы счисления около 3000 года до н.э. для решения практических задач. Начиная с VII–VI веков до н.э., древние греки стали изучать числа более абстрактно и ввели строгие математические доказательства. Древние индийцы разработали концепцию нуля и десятичную систему, которая была усовершенствована арабскими математиками в Средние века и позже распространилась в западном мире. Первые механические калькуляторы были изобретены в XVII веке. В XVIII–XIX веках произошло развитие современной теории чисел и аксиоматических основ арифметики. В XX веке появление электронных калькуляторов и компьютеров изменило точность и скорость выполнения арифметических вычислений.
+
+
+    </string>
+
+    <string name="Mental_ru">
+        Ментальная арифметика
+    </string>
+
+    <string name="basla_ru">
+        Начать
+    </string>
+
+    <string name="Hunar_ru">
+        Анкета по профессии
+    </string>
+
+    <string name="alamatlar_ru">
+        Символы:
+    </string>
+
+    <string name="kyncylyk_ru">
+        Трудности:
+    </string>
+
+    <string name="ansat_ru">
+        Легко
+    </string>
+
+    <string name="orta_ru">
+        Средний
+    </string>
+
+    <string name="kyn_ru">
+        Трудно
+    </string>
+
+    <string name="ozunce_ru">
+        Присвоить себе число
+    </string>
+
+    <string name="tizlik_ru">
+        Скорость(в секундах):
+    </string>
+
+    <string name="san_cyk_ru">
+        Сколько чисел должно получиться:
+    </string>
+
+    <string name="san_aralyk_ru">
+        Диапазон полученного числа:
+    </string>
+
+    <string name="hazir_ru">
+        На старт
+    </string>
+
+    <string name="tayyn_ru">
+        Внимание
+    </string>
+
+    <string name="baslaaa_ru">
+        Марш!!
+    </string>
+
+    <string name="dogry_ru">
+        Правильно
+    </string>
+
+    <string name="yalnys_ru">
+        Неправильно
+    </string>
+
+    <string name="tazedensynans_ru">
+        Попробуйте снова!
+    </string>
+
+    <string name="jogabynyyazyn_ru">
+        Напишите ответ
+    </string>
+
+    <string name="sandoldur_ru">
+       Я прошу вас заполнить все числа.
+    </string>
+
+    <string name="sanbashy_ru">
+       Начало и конец числа не могут быть одинаковыми.
+    </string>
+
+    <string name="cykjaksan_ru">
+       Полученные числа не могут быть меньше 2.
+    </string>
+
+    <string name="jogap_yazylmandyr_ru">
+       Вы не написали свой ответ.
+    </string>
+
+    <string name="dogry_jogap_ru">
+       Правильный ответ
+    </string>
+
+    <string name="adam_jogap_ru">
+       Ваш ответ
+    </string>
+
+    <string name="yaz_jogap_ru">
+       Напишите ответ
+    </string>
+
+    <string name="HAWA_ru">
+       ДА
+    </string>
+
+    <string name="YOK_ru">
+       НЕТ
+    </string>
+
+    <string name="tm_ru">
+        Туркменский
+    </string>
+
+    <string name="en_ru">
+        Английский
+    </string>
+
+    <string name="ru_ru">
+        Русский
+    </string>
+</resources>
