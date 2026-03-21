@@ -29,7 +29,7 @@ and help users discover their ideal career path.
 ## 📲 Play Store
 
 Download on **Google Play:**  
-[Download Here](YOUR_PLAY_STORE_LINK)
+[Download Here](https://play.google.com/store/apps/details?id=com.berk.bilim)
 
 ---
 
