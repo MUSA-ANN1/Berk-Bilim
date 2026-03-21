@@ -18,6 +18,7 @@ and help users discover their ideal career path.
 - 🧩 **Progressive difficulty** — trains focus and calculation speed
 
 ### 💼 Career Advisor
+- 🌐 Multi-language support (Turkmen, Russian, English)
 - 📋 **160 Yes/No questions** derived from Oxford career assessment methodology
 - 🏢 **15 career paths** analyzed simultaneously
 - 🎯 **Smart scoring system** — each answer contributes to relevant career scores
@@ -53,7 +54,6 @@ Download on **Google Play:**
 
 ## 🚀 Roadmap
 
-- 🌐 Multi-language support (Turkmen, Russian, English)
 - 📈 Progress tracking and statistics
 - 🏆 Leaderboard system
 - 📚 Expanded career database beyond 15 paths
