@@ -62,6 +62,6 @@ Download on **Google Play:**
 
 ## 📫 Contact
 
-**Email:** musa.annaguliev@gmail.com
-**Instagram:** <a href="https://www.instagram.com/musa.annaguliev">musa.annaguliev</a>
+**Email:** musa.annaguliev@gmail.com    
+**Instagram:** <a href="https://www.instagram.com/musa.annaguliev">musa.annaguliev</a>    
 **Telegram:** <a href="https://t.me/Mu4asa">𝓜𝓾𝓼𝓪</a>
