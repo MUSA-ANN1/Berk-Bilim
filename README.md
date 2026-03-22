@@ -1,8 +1,9 @@
 # 🧠 Berk Bilim
 
-A dual-purpose educational Android application combining **mental arithmetic training** 
-and an **Oxford-based career guidance system**. Designed to sharpen cognitive skills 
-and help users discover their ideal career path.
+A dual-purpose educational Android application combining **mental arithmetic training**
+and a **career guidance system** based on the Turkish Vocational Interest Inventory
+(Mesleki Eğilim Envanteri). Designed to sharpen cognitive skills and help users
+discover their ideal career path.
 
 ---
 
@@ -10,26 +11,25 @@ and help users discover their ideal career path.
 
 ### 🔢 Mental Arithmetic
 - 🎯 **Four difficulty modes** — Easy, Medium, Hard, and Custom
-- ⚙️ **Custom mode** — configure number count, display speed, 
+- ⚙️ **Custom mode** — configure number count, display speed,
   number range, and operations (+ − × ÷)
-- 🔢 **Sequential number display** — numbers appear one by one 
+- 🔢 **Sequential number display** — numbers appear one by one
   for mental calculation
 - ✅ **Instant result verification** — app checks your answer immediately
 - 🧩 **Progressive difficulty** — trains focus and calculation speed
 
 ### 💼 Career Advisor
-- 🌐 Multi-language support (Turkmen, Russian, English)
-- 📋 **160 Yes/No questions** derived from Oxford career assessment methodology
-- 🏢 **15 career paths** analyzed simultaneously
+- 📋 **160 Yes/No questions** from the Mesleki Eğilim Envanteri (MEE)
+- 🏢 **10 career categories** analyzed simultaneously
 - 🎯 **Smart scoring system** — each answer contributes to relevant career scores
 - 📊 **Accurate recommendations** — highest-scored career revealed at completion
-- 🔬 **Research-backed** — questions sourced from Oxford's vocational guidance framework
+- 🌐 **Multi-language support** — Turkmen, Russian, English
 
 ---
 
 ## 📲 Play Store
 
-Download on **Google Play:**  
+Download on **Google Play:**
 [Download Here](https://play.google.com/store/apps/details?id=com.berk.bilim)
 
 ---
@@ -56,12 +56,12 @@ Download on **Google Play:**
 
 - 📈 Progress tracking and statistics
 - 🏆 Leaderboard system
-- 📚 Expanded career database beyond 15 paths
+- 📚 Expanded career database
 
 ---
 
 ## 📫 Contact
 
-**Email:** musa.annaguliev@gmail.com  
-**Instagram:** <a href="https://www.instagram.com/musa.annaguliev">musa.annaguliev</a>  
+**Email:** musa.annaguliev@gmail.com
+**Instagram:** <a href="https://www.instagram.com/musa.annaguliev">musa.annaguliev</a>
 **Telegram:** <a href="https://t.me/Mu4asa">𝓜𝓾𝓼𝓪</a>
